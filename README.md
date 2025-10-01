@@ -10,5 +10,10 @@ This project focuses on clean design, easy setup, and extendability for future i
 - 🖥️ Built with React (functional components + hooks)  
 - 🎨 Simple styling (easy to customize)  
 - 💾 Lightweight and fast — no external backend required  
-- 📱 Responsive layout for desktop and mobile  
+- 📱 Responsive layout for desktop and mobile
+
+- ----
+To run 
+npm install 
+npm run dev
 
